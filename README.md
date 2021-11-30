@@ -12,7 +12,7 @@
 <a href="https://github.com/zeeoneofc/api-zeeoneofc/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeoneofc/api-zeeoneofc?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 <p align='center'>
-   <a href="https://wa.me/message/SJGWPAW7OHHXK1"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
+   <a href="https://wa.me/6281262188608"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
    <a href="https://instagram.com/zeeoneofc"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
 </p>
 
@@ -25,7 +25,7 @@ Check it yourself [Here](https://api-zeeoneofc.herokuapp.com)
 ## Cara Ganti ApiKey Gimana?
 Cara Mengganti Nya Cukup Gampang, Kalian Hanya Perlu Untuk Mengganti Syntax Di Bawah Ini
 ```js
-if(apikeyInput != 'MASUKKAN_NAMA_APIKEY') return res.json(loghandler.invalidKey)
+if(apikeyInput != 'Wibs Botz') return res.json(loghandler.invalidKey)
 ```
 Atau
 
@@ -41,6 +41,6 @@ if(apikey != 'MASUKAN_NAMA_APIKEY') return res.json(loghandler.invalidKey)
 
 # Special Thanks
 - Zahir
-- ZefianAlfian (Makasih template nya)
-- sProDev (Makasih Kodeposnya)
+- SKAYS BOTZ (Makasih template nya)
+- WIBS BOTZ (Makasih Kodeposnya)
 - devnazir (Credits : FilmApik, LK21)
